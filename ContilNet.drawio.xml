@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T23:27:18.337Z" agent="5.0 (Windows)" etag="hPgJksnuZWLt3IPVQO3G" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T19:55:48.154Z" agent="5.0 (Windows)" etag="L--DOk5drWUbc_btMNbK" version="20.8.23" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1686" dy="2277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1622" dy="2243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -185,12 +185,12 @@
         <mxCell id="RSTO8jRLHSuaAQ1j1Cau-103" value="[ClienteEmailGUID]&#xa;      ,[ClienteEmailID]&#xa;      ,[ClienteGUID]&#xa;      ,[ClienteID]&#xa;      ,[TipoEmailGUID]&#xa;      ,[TipoEmailID]&#xa;      ,[Email]&#xa;      ,[Descricao]" style="text;whiteSpace=wrap;html=1;" parent="RSTO8jRLHSuaAQ1j1Cau-101" vertex="1">
           <mxGeometry y="26" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LknzrXhCD7gFkBJ6fcq--5" value="Interessados" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeWidth=2;glass=0;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#ff8000;" collapsed="1" vertex="1" parent="RSTO8jRLHSuaAQ1j1Cau-91">
+        <mxCell id="LknzrXhCD7gFkBJ6fcq--5" value="Interessados" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeWidth=2;glass=0;rounded=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#ff8000;" parent="RSTO8jRLHSuaAQ1j1Cau-91" collapsed="1" vertex="1">
           <mxGeometry x="744.5" y="230" width="200" height="30" as="geometry">
             <mxRectangle x="744.5" y="230" width="140" height="496" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LknzrXhCD7gFkBJ6fcq--8" value="[InteressadoGUID]&#xa;      ,[InteressadoID]&#xa;      ,[Nome]&#xa;      ,[TipoPessoa]&#xa;      ,[RazaoSocial]&#xa;      ,[RG]&#xa;      ,[RG_Emissor]&#xa;      ,[CPF]&#xa;      ,[IE]&#xa;      ,[CNPJ]&#xa;      ,[Mae]&#xa;      ,[Pai]&#xa;      ,[DataNascimento]&#xa;      ,[Sexo]&#xa;      ,[Logradouro]&#xa;      ,[Referencia]&#xa;      ,[Bairro]&#xa;      ,[CEP]&#xa;      ,[Cidade]&#xa;      ,[UF]&#xa;      ,[Localizacao]&#xa;      ,[Email]&#xa;      ,[Telefone1]&#xa;      ,[Telefone2]&#xa;      ,[TipoInteressadoGUID]&#xa;      ,[TipoInteressadoID]&#xa;      ,[Nivel]&#xa;      ,[DataCadastro]&#xa;      ,[Estado]&#xa;      ,[OperadorGUIDCadastrou]&#xa;      ,[OperadorIDCadastrou]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="LknzrXhCD7gFkBJ6fcq--5">
+        <mxCell id="LknzrXhCD7gFkBJ6fcq--8" value="[InteressadoGUID]&#xa;      ,[InteressadoID]&#xa;      ,[Nome]&#xa;      ,[TipoPessoa]&#xa;      ,[RazaoSocial]&#xa;      ,[RG]&#xa;      ,[RG_Emissor]&#xa;      ,[CPF]&#xa;      ,[IE]&#xa;      ,[CNPJ]&#xa;      ,[Mae]&#xa;      ,[Pai]&#xa;      ,[DataNascimento]&#xa;      ,[Sexo]&#xa;      ,[Logradouro]&#xa;      ,[Referencia]&#xa;      ,[Bairro]&#xa;      ,[CEP]&#xa;      ,[Cidade]&#xa;      ,[UF]&#xa;      ,[Localizacao]&#xa;      ,[Email]&#xa;      ,[Telefone1]&#xa;      ,[Telefone2]&#xa;      ,[TipoInteressadoGUID]&#xa;      ,[TipoInteressadoID]&#xa;      ,[Nivel]&#xa;      ,[DataCadastro]&#xa;      ,[Estado]&#xa;      ,[OperadorGUIDCadastrou]&#xa;      ,[OperadorIDCadastrou]" style="text;whiteSpace=wrap;html=1;" parent="LknzrXhCD7gFkBJ6fcq--5" vertex="1">
           <mxGeometry y="26" width="140" height="470" as="geometry" />
         </mxCell>
         <mxCell id="RSTO8jRLHSuaAQ1j1Cau-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontStyle=1" parent="RSTO8jRLHSuaAQ1j1Cau-93" source="RSTO8jRLHSuaAQ1j1Cau-23" target="RSTO8jRLHSuaAQ1j1Cau-32" edge="1">
@@ -227,15 +227,15 @@
         <mxCell id="FcQ-IyOMOxeEg37Jza2l-66" value="API planos de contratos" style="swimlane;strokeColor=#FF0000;startSize=23;fontStyle=1" parent="FcQ-IyOMOxeEg37Jza2l-55" vertex="1">
           <mxGeometry width="1290" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="LknzrXhCD7gFkBJ6fcq--15" value="Contratos_Planos" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeWidth=2;" collapsed="1" vertex="1" parent="FcQ-IyOMOxeEg37Jza2l-66">
+        <mxCell id="LknzrXhCD7gFkBJ6fcq--15" value="Contratos_Planos" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeWidth=2;" parent="FcQ-IyOMOxeEg37Jza2l-66" collapsed="1" vertex="1">
           <mxGeometry x="350" y="350" width="200" height="30" as="geometry">
             <mxRectangle x="230" y="284" width="210" height="376" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LknzrXhCD7gFkBJ6fcq--19" value="[ContratoPlanoGUID]&#xa;      ,[ContratoPlanoID]&#xa;      ,[ContratoGUID]&#xa;      ,[ContratoID]&#xa;      ,[PlanoGUID]&#xa;      ,[PlanoID]&#xa;      ,[Login]&#xa;      ,[Senha]&#xa;      ,[PPPoE]&#xa;      ,[PPPoE_FixarIP]&#xa;      ,[PPPoE_IPFixoGUID]&#xa;      ,[PPPoE_IPFixoID]&#xa;      ,[PPPoE_LimitarPorMac]&#xa;      ,[PPPoE_MacCliente]&#xa;      ,[PPPoE_FailbackIPGUID]&#xa;      ,[PPPoE_FailbackIPID]&#xa;      ,[Ativo]&#xa;      ,[Encerrado]&#xa;      ,[DataHoraEncerramento]&#xa;      ,[OperadorGUIDEncerrou]&#xa;      ,[OperadorIDEncerrou]&#xa;      ,[PPPoE_IPBloqueioGUID]&#xa;      ,[PPPoE_IPBloqueioID]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="LknzrXhCD7gFkBJ6fcq--15">
+        <mxCell id="LknzrXhCD7gFkBJ6fcq--19" value="[ContratoPlanoGUID]&#xa;      ,[ContratoPlanoID]&#xa;      ,[ContratoGUID]&#xa;      ,[ContratoID]&#xa;      ,[PlanoGUID]&#xa;      ,[PlanoID]&#xa;      ,[Login]&#xa;      ,[Senha]&#xa;      ,[PPPoE]&#xa;      ,[PPPoE_FixarIP]&#xa;      ,[PPPoE_IPFixoGUID]&#xa;      ,[PPPoE_IPFixoID]&#xa;      ,[PPPoE_LimitarPorMac]&#xa;      ,[PPPoE_MacCliente]&#xa;      ,[PPPoE_FailbackIPGUID]&#xa;      ,[PPPoE_FailbackIPID]&#xa;      ,[Ativo]&#xa;      ,[Encerrado]&#xa;      ,[DataHoraEncerramento]&#xa;      ,[OperadorGUIDEncerrou]&#xa;      ,[OperadorIDEncerrou]&#xa;      ,[PPPoE_IPBloqueioGUID]&#xa;      ,[PPPoE_IPBloqueioID]" style="text;whiteSpace=wrap;html=1;" parent="LknzrXhCD7gFkBJ6fcq--15" vertex="1">
           <mxGeometry y="26" width="210" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="LknzrXhCD7gFkBJ6fcq--9" value="API ocorrências de contratos" style="swimlane;strokeColor=#FF0000;startSize=23;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LknzrXhCD7gFkBJ6fcq--9" value="API ocorrências de contratos" style="swimlane;strokeColor=#FF0000;startSize=23;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1370" y="-1480" width="1290" height="820" as="geometry" />
         </mxCell>
       </root>
